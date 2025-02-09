@@ -1,0 +1,20 @@
+/* Colors */
+
+/*
+60% of #0df24a - Primay
+30% of #4a0df2 - Secondary
+10% of #f24a0d - Accent
+*/
+
+: root {
+
+/* var(--primaryColor) !important; */
+--primaryColor:#0df24a;
+
+/* var(--secondaryColor) !important; */
+--secondaryColor: #4a0df2;
+
+/* var(--accentColor) !important; */
+--accentColor: #f24a0d;
+
+}
