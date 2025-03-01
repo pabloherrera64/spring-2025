@@ -15,7 +15,8 @@ p {
     padding: 50px;
 }
 
-.paragraph-one {position: relative;
+.paragraph-one-img {
+position: relative;
 float: right;
 max-width: 350px;
 width: 100%;
