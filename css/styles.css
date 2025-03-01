@@ -17,4 +17,7 @@ p {
 
 .paragraph-one {position: relative;
 float: right;
+max-width: 350px;
+width: 100%;
+height: auto;
 }
